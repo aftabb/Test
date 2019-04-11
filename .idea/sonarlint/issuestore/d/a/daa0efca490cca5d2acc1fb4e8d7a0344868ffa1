@@ -1,0 +1,4 @@
+
+ksquid:UselessImportCheck"ARemove this unused import 'com.example.aftbhadk.test.Repository'.(Õ‚“<8Ûó–ÊŸ-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚üÔ8Ûó–ÊŸ-
+xsquid:UselessImportCheck"HRemove this unused import 'com.example.aftbhadk.test.Network.ApiClient'.(â¥àÅøÿÿÿÿ8Ûó–ÊŸ-

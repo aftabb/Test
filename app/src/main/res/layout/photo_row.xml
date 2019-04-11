@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="photos"
+            type="com.example.aftbhadk.test.Models.Photos" />
+    </data>
+
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_4"
+        app:cardElevation="@dimen/dimen_4">
+
+        <RelativeLayout
+            android:id="@+id/mainContainer"
+            android:layout_width="match_parent"
+            android:layout_height="120dp">
+
+            <ImageView
+                android:id="@+id/srcImage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:id="@+id/imageName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="@dimen/dimen_8"
+                android:fontFamily="@font/montserrat_semibold"
+                android:lines="1"
+                android:text="@{photos.title}"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/photoId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_margin="@dimen/dimen_8"
+                android:fontFamily="@font/montserrat_light"
+                android:text="@{String.valueOf(photos.id)}"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+</layout>

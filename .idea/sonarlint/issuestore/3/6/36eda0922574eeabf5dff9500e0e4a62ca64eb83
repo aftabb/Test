@@ -1,0 +1,4 @@
+
+{squid:S1488!"]Immediately return this expression instead of assigning it to the temporary variable "cache".(×ïÐ±8ž¶¥ÊŸ-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ð®•¾8ž¶¥ÊŸ-
+[squid:UselessImportCheck	"0Remove this unused import 'javax.inject.Inject'.(ì–íÔ8ž¶¥ÊŸ-

@@ -1,0 +1,4 @@
+
+^squid:UselessImportCheck"4Remove this unused import 'android.app.Application'.(¢¶ÿI8à‚ÊŸ-
+Zsquid:UselessImportCheck"/Remove this unused import 'retrofit2.Retrofit'.(ŠĞİ8à‚ÊŸ-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û©îúÿÿÿÿ8à‚ÊŸ-

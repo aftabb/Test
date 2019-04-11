@@ -1,0 +1,7 @@
+
+…squid:S1450"bRemove the "provideGsonProvider" field and declare it as a local variable in the relevant methods.(Òé¼ñúÿÿÿÿ8ƒŒœÊŸ-
+Ÿsquid:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©ÊóÔ8ƒŒœÊŸ-
+‚squid:S1450"eRemove the "getApplicationProvider" field and declare it as a local variable in the relevant methods.(áÒ¥k8ƒŒœÊŸ-
+Šsquid:S1450"gRemove the "provideHttpCacheProvider" field and declare it as a local variable in the relevant methods.(·Úù«úÿÿÿÿ8ƒŒœÊŸ-
+„squid:S1450"fRemove the "getProvideHttpCProvider" field and declare it as a local variable in the relevant methods.(ê ½…8ƒŒœÊŸ-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û©îúÿÿÿÿ8ƒŒœÊŸ-

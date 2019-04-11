@@ -1,0 +1,7 @@
+
+Msquid:S1066p"/Merge this if statement with the enclosing one.(Ğê”8ÖÎ˜ÊŸ-
+[squid:UselessImportCheck"0Remove this unused import 'javax.inject.Inject'.(ì–íÔ8ƒÎ™ÊŸ-
+tsquid:UselessImportCheck"DRemove this unused import 'com.example.aftbhadk.test.MyApplication'.(ÚùÉ¢øÿÿÿÿ8ÖÎ˜ÊŸ-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¼ÇÉ8ÖÎ˜ÊŸ-
+Zsquid:UselessImportCheck"/Remove this unused import 'retrofit2.Retrofit'.(ŠĞİ8ƒÎ™ÊŸ-
+Ksquid:S1185`"(Remove this method to simply inherit it.(²öèÏüÿÿÿÿ8ÖÎ˜ÊŸ-

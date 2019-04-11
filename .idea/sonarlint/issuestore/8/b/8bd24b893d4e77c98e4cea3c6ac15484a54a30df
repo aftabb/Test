@@ -1,0 +1,4 @@
+
+Osquid:S1118":Add a private constructor to hide the implicit public one.(Ô¼¼Â
+msquid:S3008"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãì‰ðþÿÿÿÿ
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î Àñ
